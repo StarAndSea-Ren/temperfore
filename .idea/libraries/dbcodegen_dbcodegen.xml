@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dbcodegen.dbcodegen">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dbcodegen/build/libs/dbcodegen.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

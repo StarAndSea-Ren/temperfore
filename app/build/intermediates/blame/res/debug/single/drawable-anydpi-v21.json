@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\YuehDev\\WorkSpace\\Android\\TF3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_history_black_24dp.xml",
+        "source": "C:\\YuehDev\\WorkSpace\\Android\\TF3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_history_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\YuehDev\\WorkSpace\\Android\\TF3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_wb_incandescent_black_24dp.xml",
+        "source": "C:\\YuehDev\\WorkSpace\\Android\\TF3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_wb_incandescent_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\YuehDev\\WorkSpace\\Android\\TF3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_settings_black_24dp.xml",
+        "source": "C:\\YuehDev\\WorkSpace\\Android\\TF3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_settings_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\YuehDev\\WorkSpace\\Android\\TF3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_check_circle_black_24dp.xml",
+        "source": "C:\\YuehDev\\WorkSpace\\Android\\TF3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_check_circle_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\YuehDev\\WorkSpace\\Android\\TF3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_keyboard_backspace_black_24dp.xml",
+        "source": "C:\\YuehDev\\WorkSpace\\Android\\TF3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_keyboard_backspace_black_24dp.xml"
+    }
+]

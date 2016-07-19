@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\yueh\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_5caf9159d358b7483f49a1fb31536a83429d2c57\classes.dex" />
+    </item>
+    <item
+        jar="C:\YuehDev\WorkSpace\Android\TF3\app\libs\achartengine-1.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.1.0_577198a2da85efe0e8ba6571abebf5e506227c70\classes.dex" />
+    </item>
+    <item
+        jar="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="63e2b1d551290dce5759d27add8bf459f1118a29">
+        <dex dex="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0e48a1250c6847d007a56f1b7962237cae2adf23\classes.dex" />
+    </item>
+    <item
+        jar="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c7ecac839c2ed60052c9b34f54c5508c3dcdccbe">
+        <dex dex="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a8ad810ba4c813e7b899909319f4cf6b40955355\classes.dex" />
+    </item>
+    <item
+        jar="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_d5ed0b6a084cfb124ad8c69b6256b207d69ba303\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yueh\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho\1.2.0\1d6cdb8ce8185b8b23213fad48a83987fb6d2d67\stetho-1.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\transforms\dex\debug\folders\1000\10\stetho-1.2.0_58b24a5395293b7b5db72e9ae9c9d8c679727e32\classes.dex" />
+    </item>
+    <item
+        jar="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_b7cf8fe0f71f6c64f0e4054adf313afb664eba9c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yueh\.gradle\caches\modules-2\files-2.1\org.greenrobot\greendao\2.2.1\1aa64feab6440fff9a7fcfb1db1e6151d36d1254\greendao-2.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1aa64feab6440fff9a7fcfb1db1e6151d36d1254">
+        <dex dex="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\transforms\dex\debug\folders\1000\10\greendao-2.2.1_5394b6495f94e4a8d1224c099d82a31c35dcd124\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yueh\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.3.0\1b355f73402020c5a0dcca58affc3ec3dfeabac1\okio-1.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.3.0_25304996878ce126385817f24b4d0acafb45de7e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yueh\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.8.3\65fd012581ded67bc20945d85c32b4598c3a9cf1\jsoup-1.8.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="65fd012581ded67bc20945d85c32b4598c3a9cf1">
+        <dex dex="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsoup-1.8.3_da2085cd7860a61c7c813f50a64e8111c41904e1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yueh\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-cli-1.2_8d5e6120568f0594b9ef18a18a7904145eadbc97\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yueh\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-2.0.1_4d9c2cb058e8d0c57d2d4a59f471b2743a12bdfd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yueh\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.3.0\2e7bc7033dc2c8423e661224171b3133fb155b28\okhttp-2.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.3.0_33d44f410fd9a1f416ac317a8360cb519e2d25fc\classes.dex" />
+    </item>
+    <item
+        jar="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_e8995a2e45e589ff8f817a423b96f77110f65500\classes.dex" />
+    </item>
+    <item
+        jar="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_68cb444a48e995d32c10b1f0a9d06719f131bb4e\classes.dex" />
+    </item>
+    <item
+        jar="C:\YuehDev\DevStudio\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_8e302dfa7560ae0b006aa35a6d956ec560779d41\classes.dex" />
+    </item>
+    <item
+        jar="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_10f609411c46059bcfc623889e7be0125186f086\classes.dex" />
+    </item>
+    <item
+        jar="C:\YuehDev\WorkSpace\Android\TF3\app\libs\MapApiLocation_1.3.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="71e7604372d8a66689ff8df047e9a748e19a5169">
+        <dex dex="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\transforms\dex\debug\folders\1000\2\MapApiLocation_1.3.3_a19efc025227aa199d3bbc001457ef51dbd6fe27\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yueh\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho-okhttp\1.2.0\6c5c9380e245c4ff5be2b2a49dcbb0200c39798e\stetho-okhttp-1.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\transforms\dex\debug\folders\1000\10\stetho-okhttp-1.2.0_841c320a492bb5a44b5bd052758cd483380cb224\classes.dex" />
+    </item>
+
+</items>

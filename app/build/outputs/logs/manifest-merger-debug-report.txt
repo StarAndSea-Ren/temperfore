@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:12:22-73
+application
+ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:14:5-41:19
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:18:9-41
+	android:supportsRtl
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:19:9-35
+	android:allowBackup
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:17:9-43
+	android:theme
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:15:9-42
+meta-data#com.amap.api.v2.apikey
+ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:21:9-23:64
+	android:value
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:23:13-61
+	android:name
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:22:13-50
+activity#com.yueh.ren.temforecast.view.TempForecastActivity
+ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:theme
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:26:13-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:31:27-74
+service#com.yueh.ren.temforecast.app.SaveDataService
+ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:35:9-56
+	android:name
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:35:18-53
+activity#com.yueh.ren.temforecast.view.SettingsActivity
+ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:37:9-40:63
+	android:label
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:40:13-60
+	android:theme
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:39:13-72
+	android:name
+		ADDED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml:38:13-50
+uses-sdk
+INJECTED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\YuehDev\WorkSpace\Android\TF3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\YuehDev\WorkSpace\Android\TF3\app\src\main\AndroidManifest.xml
